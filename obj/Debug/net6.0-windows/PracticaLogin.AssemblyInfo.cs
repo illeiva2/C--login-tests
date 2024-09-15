@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticaLogin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2347322f795e54186a00a1609967d1c8ca5173ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticaLogin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticaLogin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

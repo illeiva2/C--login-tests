@@ -49,5 +49,12 @@ namespace PracticaLogin
             MessageBox.Show($"Nombre del postulante: {postulante1.Apellido}, {postulante1.Nombre} Documento: {postulante1.Documento}", "INGRESO DEL POSTULANTE", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
+
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            _ = txtApellido.Text == "";
+            _ = txtDocumento.Text == "";
+            _ = txtNombre.Text == "";
+        }
     }
 }

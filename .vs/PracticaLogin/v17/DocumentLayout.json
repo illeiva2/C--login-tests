@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Illei\\source\\repos\\PracticaLogin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|c:\\users\\illei\\source\\repos\\practicalogin\\primerproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|solutionrelative:primerproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|c:\\users\\illei\\source\\repos\\practicalogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|c:\\users\\illei\\source\\repos\\practicalogin\\primerproyecto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|solutionrelative:primerproyecto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|c:\\users\\illei\\source\\repos\\practicalogin\\primerproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|solutionrelative:primerproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|c:\\users\\illei\\source\\repos\\practicalogin\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +15,16 @@
       "RelativeMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|c:\\users\\illei\\source\\repos\\practicalogin\\primerproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|solutionrelative:primerproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|c:\\users\\illei\\source\\repos\\practicalogin\\primerproyecto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|solutionrelative:primerproyecto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|C:\\Users\\Illei\\source\\repos\\PracticaLogin\\primerproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|solutionrelative:primerproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|c:\\users\\illei\\source\\repos\\practicalogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FD52BA-6A63-4CE1-80B5-9FF34CCF40BE}|PracticaLogin.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "PrimerProyecto.cs",
               "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\PracticaLogin\\PrimerProyecto.cs",
               "RelativeDocumentMoniker": "PrimerProyecto.cs",
               "ToolTip": "C:\\Users\\Illei\\source\\repos\\PracticaLogin\\PrimerProyecto.cs",
               "RelativeToolTip": "PrimerProyecto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewDgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T20:35:43.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "PrimerProyecto.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\PracticaLogin\\PrimerProyecto.cs",
               "RelativeDocumentMoniker": "PrimerProyecto.cs",
@@ -63,33 +63,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\PracticaLogin\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Illei\\source\\repos\\PracticaLogin\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowDQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T13:10:09.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PrimerProyecto.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\PracticaLogin\\PrimerProyecto.Designer.cs",
               "RelativeDocumentMoniker": "PrimerProyecto.Designer.cs",
               "ToolTip": "C:\\Users\\Illei\\source\\repos\\PracticaLogin\\PrimerProyecto.Designer.cs",
               "RelativeToolTip": "PrimerProyecto.Designer.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwKIAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T20:34:17.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\PracticaLogin\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -101,13 +101,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\PracticaLogin\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
               "ToolTip": "C:\\Users\\Illei\\source\\repos\\PracticaLogin\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAApwEYAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAApwEYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T13:36:35.453Z",
               "EditorCaption": ""

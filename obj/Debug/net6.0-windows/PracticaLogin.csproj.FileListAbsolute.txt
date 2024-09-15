@@ -16,3 +16,4 @@ C:\Users\Illei\source\repos\PracticaLogin\obj\Debug\net6.0-windows\PracticaLogin
 C:\Users\Illei\source\repos\PracticaLogin\obj\Debug\net6.0-windows\PracticaLogin.genruntimeconfig.cache
 C:\Users\Illei\source\repos\PracticaLogin\obj\Debug\net6.0-windows\ref\PracticaLogin.dll
 C:\Users\Illei\source\repos\PracticaLogin\obj\Debug\net6.0-windows\PracticaLogin.PrimerProyecto.resources
+C:\Users\Illei\source\repos\PracticaLogin\obj\Debug\net6.0-windows\PracticaLogin.sourcelink.json

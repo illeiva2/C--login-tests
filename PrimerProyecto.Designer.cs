@@ -92,9 +92,9 @@
             // 
             // btnIngresar
             // 
-            btnIngresar.Location = new Point(534, 69);
+            btnIngresar.Location = new Point(486, 53);
             btnIngresar.Name = "btnIngresar";
-            btnIngresar.Size = new Size(94, 29);
+            btnIngresar.Size = new Size(130, 59);
             btnIngresar.TabIndex = 6;
             btnIngresar.Text = "INGRESAR";
             btnIngresar.UseVisualStyleBackColor = true;
@@ -102,12 +102,13 @@
             // 
             // btnLimpiar
             // 
-            btnLimpiar.Location = new Point(534, 148);
+            btnLimpiar.Location = new Point(486, 132);
             btnLimpiar.Name = "btnLimpiar";
-            btnLimpiar.Size = new Size(94, 29);
+            btnLimpiar.Size = new Size(130, 59);
             btnLimpiar.TabIndex = 7;
             btnLimpiar.Text = "LIMPIAR";
             btnLimpiar.UseVisualStyleBackColor = true;
+            btnLimpiar.Click += btnLimpiar_Click;
             // 
             // txtTipo
             // 
@@ -127,7 +128,7 @@
             lblTipo.TabIndex = 9;
             lblTipo.Text = "Tipo";
             // 
-            // Formulario
+            // PrimerProyecto
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -143,7 +144,7 @@
             Controls.Add(txtNombre);
             Controls.Add(lblNombre);
             Margin = new Padding(3, 4, 3, 4);
-            Name = "Formulario";
+            Name = "PrimerProyecto";
             Text = "Formulario";
             ResumeLayout(false);
             PerformLayout();
