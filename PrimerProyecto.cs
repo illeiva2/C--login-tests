@@ -22,6 +22,7 @@ namespace PracticaLogin
             private string? apellido;
             private string? tipo;
             private int documento;
+            private int ingresos = 0;
             public Postulante(string? nombre, string? apellido, string? tipo, int documento)
             {
                 this.Nombre = nombre;
@@ -45,16 +46,7 @@ namespace PracticaLogin
             ape = txtApellido.Text;
             doc = Convert.ToInt32(txtDocumento.Text);
             tip = txtTipo.Text;
-            Postulante postulante1 = new Postulante(nom, ape, tip, doc);
-            MessageBox.Show($"Nombre del postulante: {postulante1.Apellido}, {postulante1.Nombre} Documento: {postulante1.Documento}", "INGRESO DEL POSTULANTE", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
-        }
-
-        private void btnLimpiar_Click(object sender, EventArgs e)
-        {
-            _ = txtApellido.Text == "";
-            _ = txtDocumento.Text == "";
-            _ = txtNombre.Text == "";
+            Postulante postulante = new Postulante(nom, ape, tip, doc);
         }
     }
 }

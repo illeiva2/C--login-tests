@@ -1,3 +1,7 @@
+using Org.BouncyCastle.Pqc.Crypto.Lms;
+using PracticaLogin.Datos;
+using System.Data;
+
 namespace PracticaLogin
 {
     public partial class Login : Form
@@ -46,11 +50,16 @@ namespace PracticaLogin
 
         private void btnIngresar_Click(object sender, EventArgs e)
         {
-            if  (txtUsuario.Text == "Administrador" && txtContra.Text == "Admin1234")
+            DataTable tablaLogin = new(); 
+            Datos.Usuarios dato = new();
+            tablaLogin = dato.Log_Usu(txtUsuario.Text, txtContra.Text);
+            if (tablaLogin.Rows.Count > 0)
             {
-                PrimerProyecto primerproyecto = new PrimerProyecto();
-                primerproyecto.Show();
-                this.Hide();
+            MessageBox.Show("Ingreso exitoso");
+            }
+            else
+            {
+                MessageBox.Show("Usuario y/o password incorrecto");
             }
         }
     }
